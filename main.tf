@@ -18,7 +18,7 @@ terraform {
     organization = "Terraform_Project_TELE36058"
 
     workspaces {
-      name = "learn-terraform-github-actions"
+      name = "SDN_production"
     }
   }
 }
